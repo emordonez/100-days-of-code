@@ -1,30 +1,18 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code &ndash; Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: April 12, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's progress**: Altered my website's Vue icon component to import SVGs automatically.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I need a regex refresher.
+I can make sense of `require.context()` now, but managing image loaders with webpack still confuses me.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Website commit](https://github.com/emordonez/website/commit/85ec813df7c5d9add4113869ab75347f746f79e7)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+## Day 1: April 13, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's progress**: Implemented a website Vue component to load images in Markdown content, fine-tuned it to handle GIFs.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The simplest solution usually is to see if there's already a [module that does what I need](https://image.nuxtjs.org/) then modify it if needed  ¯\\\_(ツ)_/¯
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Links to work**: [Website commit 1](https://github.com/emordonez/website/commit/66949f27d1c9c5d05113674b464193a329e8ddbd), [2](https://github.com/emordonez/website/commit/33ee93f4e51b2aed95e70e5399bdfda523202c48)

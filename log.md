@@ -28,3 +28,14 @@ Structured my Transfermarkt webscraper into a proper Python project, which can n
 Although writing up full documentation and setup for something simple or "self-explanatory" initially seemed excessive, I see the benefit in how readily extendable the webscraper is now.
 
 **Link to work:** [New project repository for Transfermarkt transfers](https://github.com/emordonez/transfermarkt-transfers)
+
+### Day 3: April 15, 2021
+
+**Today's progress:** Added transfer windows and a default cleaning option to the Transfermarkt web scraper.
+Fixed an error caused when no league data is available.
+
+**Thoughts:** I feel more confident after running the full script and fixing what runtime errors occurred.
+However, I still need to inspect the scraped/cleaned data to make sure everything looks sensible.
+Next up is a simple testing suite.
+
+**Link to work:** [Project commit 1](https://github.com/emordonez/transfermarkt-transfers/commit/2f6dbd794de84680d524be0b2a9d820748a420ba), [2](https://github.com/emordonez/transfermarkt-transfers/commit/114dec6c9b6e61b21fbbf76e31dc809b4dca75c2), [3](https://github.com/emordonez/transfermarkt-transfers/commit/314413ea12c90aadfe5e09af1854fa009c11c7a5)

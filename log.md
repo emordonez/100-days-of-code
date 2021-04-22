@@ -39,3 +39,31 @@ However, I still need to inspect the scraped/cleaned data to make sure everythin
 Next up is a simple testing suite.
 
 **Link to work:** [Project commit 1](https://github.com/emordonez/transfermarkt-transfers/commit/2f6dbd794de84680d524be0b2a9d820748a420ba), [2](https://github.com/emordonez/transfermarkt-transfers/commit/114dec6c9b6e61b21fbbf76e31dc809b4dca75c2), [3](https://github.com/emordonez/transfermarkt-transfers/commit/314413ea12c90aadfe5e09af1854fa009c11c7a5)
+
+### Day 4: April 16, 2021
+
+**Today's progress:** Assessed the Transfermarkt data by determining null counts.
+
+**Thoughts:** This was a good refresher on dictionary comprehensions and methods.
+
+**Link to work:** [Data dump](https://github.com/emordonez/transfermarkt-transfers/commit/4d6c33da9c9df710a981caa41b987973a9353284), will find a way in the future to post the Jupyter notebook
+
+### Day 5: April 20, 2021
+
+**Today's progress:** Started a Vue side project that emulates the connecting wall from Only Connect.
+Implemented a basic grid that randomly shuffles a static source of connected clues.
+
+**Thoughts:** I unintentionally took three days off due to a family visit and a vaccination.
+Although this broke a streak of consecutive days coding, I wasn't upset by it because I've put in multiple hours per day in the days prior.
+But I did notice I was more sluggish in getting started, so lost momentum is tangible and should not be underestimated.
+
+**Link to work:** [New project repository for Only Connect connectin wall](https://github.com/emordonez/connecting-wall)
+
+### Day 6: April 21, 2021
+
+**Today's progress:** Completed all basic functionality for the connecting wall: Selecting clues, checking clues, rearranging correctly identified clues, and conditional color styling.
+
+**Thoughts:** I am very satisfied with the look, feel, and flow of the walls' basic functionality.
+What I thought were naive implementations turned out to be very effective and as close to canonical for Vue as I can find, but the code can probably be cleaned further.
+
+**Link to work:**

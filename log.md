@@ -38,7 +38,7 @@ Fixed an error caused when no league data is available.
 However, I still need to inspect the scraped/cleaned data to make sure everything looks sensible.
 Next up is a simple testing suite.
 
-**Link to work:** [Project commit 1](https://github.com/emordonez/transfermarkt-transfers/commit/2f6dbd794de84680d524be0b2a9d820748a420ba), [2](https://github.com/emordonez/transfermarkt-transfers/commit/114dec6c9b6e61b21fbbf76e31dc809b4dca75c2), [3](https://github.com/emordonez/transfermarkt-transfers/commit/314413ea12c90aadfe5e09af1854fa009c11c7a5)
+**Links to work:** [Project commit 1](https://github.com/emordonez/transfermarkt-transfers/commit/2f6dbd794de84680d524be0b2a9d820748a420ba), [2](https://github.com/emordonez/transfermarkt-transfers/commit/114dec6c9b6e61b21fbbf76e31dc809b4dca75c2), [3](https://github.com/emordonez/transfermarkt-transfers/commit/314413ea12c90aadfe5e09af1854fa009c11c7a5)
 
 ### Day 4: April 16, 2021
 
@@ -66,4 +66,16 @@ But I did notice I was more sluggish in getting started, so lost momentum is tan
 **Thoughts:** I am very satisfied with the look, feel, and flow of the walls' basic functionality.
 What I thought were naive implementations turned out to be very effective and as close to canonical for Vue as I can find, but the code can probably be cleaned further.
 
-**Link to work:**
+**Link to work:** [Project commit](https://github.com/emordonez/connecting-wall/commit/eb07e17d2257c7068dcf626924d84599c66ef751)
+
+## Week 1
+
+### Day 7: April 22, 2021
+
+**Today's progress:** Implemented automatic scaling font size, fixed a PurgeCSS issue, and animated transitions in the connecting wall.
+Deployed a test wall on Netlify.
+
+**Thoughts:** The size of the project seems daunting now that I see how many features I want to implement and how bare the minimal working example is compared to that, but it didn't feel overwhelming when I focused only on small bits of functionality at a time.
+It feels easier to take on the rest of the project this way.
+
+**Links to work:** [Test deploy for the connecting wall](https://connecting-wall.netlify.app/), [project commits 1](https://github.com/emordonez/connecting-wall/commit/d02e24d4516c7ea7adf4ff0e7c67c0f756c37f3e), [2](https://github.com/emordonez/connecting-wall/commit/3661c9a6032d0ee04bb18e57a4fd711e3c6cce78), [3](https://github.com/emordonez/connecting-wall/commit/48dd63b96daa25f268b8ff96413537fe028fe7ca)

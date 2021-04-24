@@ -79,3 +79,13 @@ Deployed a test wall on Netlify.
 It feels easier to take on the rest of the project this way.
 
 **Links to work:** [Test deploy for the connecting wall](https://connecting-wall.netlify.app/), [project commits 1](https://github.com/emordonez/connecting-wall/commit/d02e24d4516c7ea7adf4ff0e7c67c0f756c37f3e), [2](https://github.com/emordonez/connecting-wall/commit/3661c9a6032d0ee04bb18e57a4fd711e3c6cce78), [3](https://github.com/emordonez/connecting-wall/commit/48dd63b96daa25f268b8ff96413537fe028fe7ca)
+
+### Day 8: April 23, 2021
+
+**Today's progress:** Finished a CSS stylesheet for Markdown-generated resumes and cover letters.
+Made a Makefile to streamline the process.
+
+**Thoughts:** I wrote the stylesheet from scratch with vanilla CSS declarations, and the success of the end result makes me feel like I do have a good understanding of CSS fundamentals, rather than a fluid familiarity with frameworks and shortcuts.
+Even though it's a small and simple example, I can readily see how I can expand upon it.
+
+**Links to work:** [Repository for Markdown-generated resumes](https://github.com/emordonez/resumes),

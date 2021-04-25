@@ -88,4 +88,12 @@ Made a Makefile to streamline the process.
 **Thoughts:** I wrote the stylesheet from scratch with vanilla CSS declarations, and the success of the end result makes me feel like I do have a good understanding of CSS fundamentals, rather than a fluid familiarity with frameworks and shortcuts.
 Even though it's a small and simple example, I can readily see how I can expand upon it.
 
-**Links to work:** [Repository for Markdown-generated resumes](https://github.com/emordonez/resumes),
+**Links to work:** [Repository for Markdown-generated resumes](https://github.com/emordonez/resumes)
+
+### Day 9: April 24, 2021
+
+**Today's progress:** Tweaked a JS util to compute image source URLs in the site's static directory.
+Made minor adjustments to site styling and began working on an author bio component.
+
+**Thoughts:** The image URL workaround is temporary until I learn more about image providers and my CDN options.
+Eventually, I want no static assets to be hosted in the site repo.

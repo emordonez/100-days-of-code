@@ -88,7 +88,7 @@ Made a Makefile to streamline the process.
 **Thoughts:** I wrote the stylesheet from scratch with vanilla CSS declarations, and the success of the end result makes me feel like I do have a good understanding of CSS fundamentals, rather than a fluid familiarity with frameworks and shortcuts.
 Even though it's a small and simple example, I can readily see how I can expand upon it.
 
-**Links to work:** [Repository for Markdown-generated resumes](https://github.com/emordonez/resumes)
+**Link to work:** [Repository for Markdown-generated resumes](https://github.com/emordonez/resumes)
 
 ### Day 9: April 24, 2021
 
@@ -97,3 +97,11 @@ Made minor adjustments to site styling and began working on an author bio compon
 
 **Thoughts:** The image URL workaround is temporary until I learn more about image providers and my CDN options.
 Eventually, I want no static assets to be hosted in the site repo.
+
+### Day 10: April 25, 2021
+
+**Today's progress:** Completed the author bio component and restuctured the homepage layout.
+
+**Thoughts:** I think my site is looking pretty good now!
+
+**Links to work:** [Commit 1](https://github.com/emordonez/website/commit/c2b11e87e0b675d6696b7700dee6d4feeb4f4b65), [2](https://github.com/emordonez/website/commit/48e060c55b39e86fb1cb9e103b68a595d5e1cc2b)

@@ -105,3 +105,23 @@ Eventually, I want no static assets to be hosted in the site repo.
 **Thoughts:** I think my site is looking pretty good now!
 
 **Links to work:** [Commit 1](https://github.com/emordonez/website/commit/c2b11e87e0b675d6696b7700dee6d4feeb4f4b65), [2](https://github.com/emordonez/website/commit/48e060c55b39e86fb1cb9e103b68a595d5e1cc2b)
+
+### Day 11: April 26, 2021
+
+**Today's progress:** Added a card list for works in progress on my website.
+
+### Day 12: April 28, 2021
+
+**Today's progress:** Tweaked the grid layout and flow for the "latest posts" cards on my website.
+Began revisiting an old set of R visualizations using the soccer transfers data set.
+
+### Day 13: April 29, 2021
+
+**Today's progress:** Updated the R visualizations with the new data.
+Changed the plot styles for the club transfer profits (bar), league spending comparison (area), and most expensive transfers (lollipop).
+Found a hacky workaround online to pipe the data from the treemap into a ggplot, recreating the treemap but with consistent theming.
+
+**Thoughts:** I'm also late logging the past three days, one of which I did not code for an hour.
+I haven't pushed or even committed any of the website tweaks or R visualizations, so I'm relying upon my memory to note when I worked on something and to what extent.
+Honestly, the hours blend together, and it's difficult to remember when my various "a-ha!" moments were, which, in previous logs, were the moments at which I'd commit and note the progress.
+Consider this a small bump that shows the importance of small contributions and consistent logging for the long term.

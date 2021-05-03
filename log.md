@@ -125,3 +125,33 @@ Found a hacky workaround online to pipe the data from the treemap into a ggplot,
 I haven't pushed or even committed any of the website tweaks or R visualizations, so I'm relying upon my memory to note when I worked on something and to what extent.
 Honestly, the hours blend together, and it's difficult to remember when my various "a-ha!" moments were, which, in previous logs, were the moments at which I'd commit and note the progress.
 Consider this a small bump that shows the importance of small contributions and consistent logging for the long term.
+
+## Week 2
+
+### Day 14: April 30, 2021
+
+**Today's progress:** Explored options on how to scale ggplot figures, particularly ragg.
+Settled on using ggsave to output an SVG then exporting a manually resized PNG with Inkscape.
+
+**Thoughts:** It's a little offputting that something as trivial as scaling figures is nontrivial with R and ggplot, but ggplot's ease and aesthetics still win out for me.
+I could probably simplify the Inkscape process with a Python script.
+
+**Link to work:** [Gist of the R script](https://gist.github.com/emordonez/5fe7d760ceba4aa0c930ca6496ba1b42)
+
+### Day 15: May 1, 2021
+
+**Today's progress:** Looked into remark and rehype plugins to wrap Markdown content.
+Attempted to make the table of contents more dynamic by observing sections instead of headers, but to no avail.
+
+**Thoughts:** Although the remark/rehype plugins I've tried are not working as intended, I stumbled upon several other plugins that I want to try.
+Take note of them for future Nuxt projects.
+
+### Day 16: May 2, 2021
+
+**Today's progress:** Decided against wrapping headers and content.
+Implemented smooth scrolling to hash links with the appropriate offset to keep the header in view.
+
+**Thoughts:** Observing sections still seems the most straightforward way to get the TOC behavior I want with Intersection Observer, but neither of the remark/rehype plugins I tried work nicely with Nuxt.
+I may need to tweak how the currently active entry is recorded and styled.
+
+**Link to work:** [Website commit](https://github.com/emordonez/website/commit/e38ba329b1b03a27a9a02b42b224afcf34462ce7)

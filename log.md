@@ -104,7 +104,7 @@ Eventually, I want no static assets to be hosted in the site repo.
 
 **Thoughts:** I think my site is looking pretty good now!
 
-**Links to work:** [Commit 1](https://github.com/emordonez/website/commit/c2b11e87e0b675d6696b7700dee6d4feeb4f4b65), [2](https://github.com/emordonez/website/commit/48e060c55b39e86fb1cb9e103b68a595d5e1cc2b)
+**Links to work:** [Website commit 1](https://github.com/emordonez/website/commit/c2b11e87e0b675d6696b7700dee6d4feeb4f4b65), [2](https://github.com/emordonez/website/commit/48e060c55b39e86fb1cb9e103b68a595d5e1cc2b)
 
 ### Day 11: April 26, 2021
 
@@ -155,3 +155,13 @@ Implemented smooth scrolling to hash links with the appropriate offset to keep t
 I may need to tweak how the currently active entry is recorded and styled.
 
 **Link to work:** [Website commit](https://github.com/emordonez/website/commit/e38ba329b1b03a27a9a02b42b224afcf34462ce7)
+
+### Day 17: May 3, 2021
+
+**Today's progress:** TOC highlighting now detects when an entry is being scrolled into from below.
+Fixed a prior issue with this implementation, where the Intersection Observer logic selected the second-to-last TOC entry when initialized.
+
+**Thoughts:** I liked the elegance of the original TOC, but I believe users will intuitively expect a TOC to indicate they've scrolled up into a previous section since that's they see.
+It took me a nontrivial amount of time to learn how to implement something so small, but I think it was worth it. (I now know a _lot_ about Intersection Observers!)
+
+**Link to work:** [Website commit](https://github.com/emordonez/website/commit/91213c6626345fac13ee2d2d98f515c1639ea5a1)

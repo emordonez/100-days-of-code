@@ -165,3 +165,13 @@ Fixed a prior issue with this implementation, where the Intersection Observer lo
 It took me a nontrivial amount of time to learn how to implement something so small, but I think it was worth it. (I now know a _lot_ about Intersection Observers!)
 
 **Link to work:** [Website commit](https://github.com/emordonez/website/commit/91213c6626345fac13ee2d2d98f515c1639ea5a1)
+
+### Day 18: May 4, 2021
+
+**Today's progress:** Added basic page transitions to the website.
+Downloaded a CSV of World Bank data for ASEAN countries and began reshaping and cleaning it with Pandas.
+
+**Thoughts:** At first I was manually rehsaping the CSV from a long to tall format, but I decided to do it all in Python as a refresher on Pandas syntax and methods.
+It's a simple exercise, but I think it showcases essential skills for the jobs I'm looking for.
+
+**Link to work:** [Website commit](https://github.com/emordonez/website/commit/b7cda8b572a072fd9136ed2ae79a161c53c2d89d)

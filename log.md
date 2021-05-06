@@ -171,7 +171,16 @@ It took me a nontrivial amount of time to learn how to implement something so sm
 **Today's progress:** Added basic page transitions to the website.
 Downloaded a CSV of World Bank data for ASEAN countries and began reshaping and cleaning it with Pandas.
 
-**Thoughts:** At first I was manually rehsaping the CSV from a long to tall format, but I decided to do it all in Python as a refresher on Pandas syntax and methods.
+**Thoughts:** At first I was manually rehsaping the CSV from a wide to long format, but I decided to do it all in Python as a refresher on Pandas syntax and methods.
 It's a simple exercise, but I think it showcases essential skills for the jobs I'm looking for.
 
 **Link to work:** [Website commit](https://github.com/emordonez/website/commit/b7cda8b572a072fd9136ed2ae79a161c53c2d89d)
+
+### Day 19: May 5, 2021
+
+**Today's progress:** Completed cleaning ASEAN macro data.
+Finished one plot with the data and read up on other new plot styles to try.
+Began cleaning PSA data on Philippine regional GDP and population.
+
+**Thoughts:** I'm now using Reticulate to use Python and R together.
+I find data cleaning and computation easier with Python, but manipulation and visualization easier with R.

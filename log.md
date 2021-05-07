@@ -184,3 +184,12 @@ Began cleaning PSA data on Philippine regional GDP and population.
 
 **Thoughts:** I'm now using Reticulate to use Python and R together.
 I find data cleaning and computation easier with Python, but manipulation and visualization easier with R.
+
+### Day 20: May 6, 2021
+
+**Today's progress:** Finished three R plots of the ASEAN macro data, for four in total.
+
+**Thoughts:** I'm becoming more confident in my visual design choices and in how to use ggplot2.
+I think I'm getting faster at the whole process of finding, cleaning, and depicting data.
+
+**Link to work:** [Gist](https://gist.github.com/emordonez/78658ad9507efa2a6f586a9d24d23ea3)

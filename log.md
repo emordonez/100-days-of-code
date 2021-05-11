@@ -193,3 +193,30 @@ I find data cleaning and computation easier with Python, but manipulation and vi
 I think I'm getting faster at the whole process of finding, cleaning, and depicting data.
 
 **Link to work:** [Gist](https://gist.github.com/emordonez/78658ad9507efa2a6f586a9d24d23ea3)
+
+## Week 3
+
+### Day 21: May 7, 2021
+
+**Today's progress:** Finished cleaning the Philippines PSA data and completed one plot for ranking regions by GDP per capita.
+
+**Thoughts:** I'm getting a better understanding of how data frames and series are piped into ggplot.
+I might be able to revisit some earlier plots and tidy up my now-naive approach to certain things.
+
+### Day 22: May 9, 2021
+
+**Today's progress:** Looked into how to read geoJSON and shapefiles in R.
+Created a geospatial plot using a humdata shapefile set.
+
+**Thoughts:** I couldn't resolve neither geojsonio's nor rgdal's dependencies, so I opted for sf.
+Geospatial plotting is straightforward with ggplot, and I like the workflow enough to want to try more geospatial visualizations.
+The drawback with this one is the size of the shapefile (~200MB), which slowed the rendering too much for my liking.
+
+### Day 23: May 10, 2021
+
+**Today's progress:** Finished the final plot for Philippine regional GDP.
+
+**Thoughts:** I think this visualization affirmed my understanding of ggplot with how I manipulated breaks, labels, and limits.
+I would feel very confident explaining to a recruiter or employer that I can use ggplot for nearly anything entry-level that they need.
+
+**Link to work:** [Gist](https://gist.github.com/emordonez/de0a8019c830285f327bbd39a152cfa7)

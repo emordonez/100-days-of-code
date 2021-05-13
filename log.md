@@ -220,3 +220,13 @@ The drawback with this one is the size of the shapefile (~200MB), which slowed t
 I would feel very confident explaining to a recruiter or employer that I can use ggplot for nearly anything entry-level that they need.
 
 **Link to work:** [Gist](https://gist.github.com/emordonez/de0a8019c830285f327bbd39a152cfa7)
+
+### Day 24: May 12, 2021
+
+**Today's progress:** Changed content directory structure to organize website posts by date.
+Made minor adjustments to previous code layout in an effort to achieve a more consistent code style.
+
+**Thoughts:** It was very frustrating trying to get recursive fetching and routing to work since yesterday.
+Note that the Nuxt Content docs do not address this or dynamic routing very well.
+
+**Links to work:** [Commits 1](/), [2](/), [3](/)

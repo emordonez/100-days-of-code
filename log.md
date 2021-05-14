@@ -230,3 +230,12 @@ Made minor adjustments to previous code layout in an effort to achieve a more co
 Note that the Nuxt Content docs do not address this or dynamic routing very well.
 
 **Links to work:** [Commits 1](/), [2](/), [3](/)
+
+### Day 25: May 13, 2021
+
+**Today's progress:** Wrote a Python script to create new blog posts by emulating Hugo archetypes.
+Added the Vue Router to the Connecting Wall app.
+
+**Thoughts:** Python really is like duct tape, and I should consider writing more utility scripts considering how easy it is to install and run them.
+
+**Link to work:** [Gist](https://gist.github.com/emordonez/ecb5d88c0be3eeeec48380c36739dba3)

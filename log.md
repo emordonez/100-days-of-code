@@ -239,3 +239,29 @@ Added the Vue Router to the Connecting Wall app.
 **Thoughts:** Python really is like duct tape, and I should consider writing more utility scripts considering how easy it is to install and run them.
 
 **Link to work:** [Gist](https://gist.github.com/emordonez/ecb5d88c0be3eeeec48380c36739dba3)
+
+### Day 26: May 14, 2021
+
+**Today's progress:** Opened a pull request to switch out Nuxt Image components for the native HTML img tag.
+
+**Thoughts:** I'm going to start testing new features/implementations on new branches so that I can both preview the deploy on Netlify and also learn the workflow of opening and merging pull requests.
+
+**Link to work:** [Pull request commit](https://github.com/emordonez/website/pull/1/commits/76449733f1c0562cb8078a3b211da3f5e70c6859)
+
+### Day 27: May 15, 2021
+
+**Today's progress:** Created a Cloudinary account.
+Tried Nuxt Image again but specified Cloudinary as the provider, to no avail.
+
+**Thoughts:** I'm unsatisfied with Netlify LMS and am unsure if Git LFS is the way to go (I don't want image assets bloating the repository, but even local pointers seem like clutter to me).
+Cloudinary seems to be the most common solution for easy image delivery.
+
+## Week 4
+
+### Day 28: May 16, 2021
+
+**Today's progress:** Dropped in Nuxt Cloudinary components to deliver my Cloudinary-hosted images.
+
+**Thoughts:** This was the easiest and what probably should have been the first approach to remote hosting images.
+Cloudinary offers tons of free features that I can't see myself using at the moment, so it may be overkill for my simple use cases.
+But it's fast and free!

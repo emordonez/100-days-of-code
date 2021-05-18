@@ -265,3 +265,12 @@ Cloudinary seems to be the most common solution for easy image delivery.
 **Thoughts:** This was the easiest and what probably should have been the first approach to remote hosting images.
 Cloudinary offers tons of free features that I can't see myself using at the moment, so it may be overkill for my simple use cases.
 But it's fast and free!
+
+### Day 29: May 17, 2021
+
+**Today's progress:** Migrated from Tailwind to Windi.
+Added a simple hero pattern background to the website.
+
+**Thoughts:** I'm getting the hang of managing git branches and heads.
+
+**Links to work:** [Pull requests 1](https://github.com/emordonez/website/pull/1), [2](https://github.com/emordonez/website/pull/2)

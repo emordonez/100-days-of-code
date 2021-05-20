@@ -285,3 +285,14 @@ Added a simple Timer component that visually counts down but doesn't affect game
 I can clearly see how far I've come since the first attempts to get the Bricks and Wall grid to even function.
 
 **Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/1)
+
+### Day 31: May 20, 2021
+
+**Today's progress:** Restructured the Connecting Wall for game logic to be run through one component.
+Created a Modal component with background blur.
+Tweaked the Timer to end the game if not solved within the time limit.
+
+**Thoughts:** Got a lot done!
+I'm now consciously trying to commit more frequently, every time I succeed in a smaller tweak toward a more significant change (like committing the Modal once it was functional and then again once I got the blur to work, rather than trying to complete everything in one big commit).
+
+**Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/2)

@@ -274,3 +274,14 @@ Added a simple hero pattern background to the website.
 **Thoughts:** I'm getting the hang of managing git branches and heads.
 
 **Links to work:** [Pull requests 1](https://github.com/emordonez/website/pull/1), [2](https://github.com/emordonez/website/pull/2)
+
+### Day 30: May 19, 2021
+
+**Today's progress:** Integrated the Vue Router into the Connecting Wall.
+Walls are now stored as local JSON and then dynamically routed.
+Added a simple Timer component that visually counts down but doesn't affect game logic yet.
+
+**Thoughts:** I am very satisfied with how this project is shaping into a polished product!
+I can clearly see how far I've come since the first attempts to get the Bricks and Wall grid to even function.
+
+**Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/1)

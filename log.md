@@ -296,3 +296,12 @@ Tweaked the Timer to end the game if not solved within the time limit.
 I'm now consciously trying to commit more frequently, every time I succeed in a smaller tweak toward a more significant change (like committing the Modal once it was functional and then again once I got the blur to work, rather than trying to complete everything in one big commit).
 
 **Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/2)
+
+### Day 32: May 21, 2021
+
+**Today's progress:** Connecting Wall now automatically resolves if time runs out.
+
+**Thoughts:** I took advantage of existing functions to make implementing this feature simple.
+Apart from one missing break statement that caused a hiccup, everything worked seamlessly!
+
+**Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/3)

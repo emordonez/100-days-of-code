@@ -305,3 +305,16 @@ I'm now consciously trying to commit more frequently, every time I succeed in a 
 Apart from one missing break statement that caused a hiccup, everything worked seamlessly!
 
 **Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/3)
+
+### Day 33: May 22, 2021
+
+**Today's progress:** Implemented a three strike system after two groups have been found.
+Wall now freezes after striking out, then automatically resolves.
+Merged pull request, so game now has working time and strike limits.
+
+**Thoughts:** The existing logic worked with these new features relatively easily, only requiring minor tweaks in props and emits.
+I considered restructuring the entire thing to have an "ideal" flow for all the new and existing attributes together, but I think it's more realistic to determine how to incorporate new features on top of existing ones.
+In any case, the project functions exactly as I wanted it to.
+I should document all the obstacles and design decisions so that I can compare my determinations to what an "ideal" flow might be.
+
+**Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/3)

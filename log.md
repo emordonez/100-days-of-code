@@ -318,3 +318,26 @@ In any case, the project functions exactly as I wanted it to.
 I should document all the obstacles and design decisions so that I can compare my determinations to what an "ideal" flow might be.
 
 **Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/3)
+
+### Day 34: May 24, 2021
+
+**Today's progress:** Added sound effects from _Only Connect_ to the connecting wall.
+Made a template grid with two-way data binding for the wall editor.
+
+**Thoughts:** I initially was going to add a third-party package to handle sound, but I figured the use case wasn't complex enough to justify it.
+I think it paid off more as a learning experience to implement audio using vanilla JS.
+
+**Link to work:** [Pull request 1](https://github.com/emordonez/connecting-wall/pull/4), [2](https://github.com/emordonez/connecting-wall/pull/5)
+
+## Week 5
+
+### Day 35: May 25, 2021
+
+**Today's progress:** Finished the wall editor with data encoding and decoding, form validation, and dynamic routing.
+User-created walls can now be shared and played.
+
+**Thoughts:** I am extremely satisfied with the end result that I will call the first iteration of this project!
+It's in a working and polished state that I can comfortably show off to others.
+I already have the next round of major features in mind.
+
+**Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/5)

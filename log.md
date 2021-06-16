@@ -341,3 +341,47 @@ It's in a working and polished state that I can comfortably show off to others.
 I already have the next round of major features in mind.
 
 **Link to work:** [Pull request](https://github.com/emordonez/connecting-wall/pull/5)
+
+### Day 36: June 9, 2021
+
+**Today's progress:** Started a new data analysis project with the Transfermarkt data, beginning with a data setup script.
+
+**Thoughts:** It's been about two weeks since my last active day of coding, unfortunately.
+I found it very difficult to keep the flow going once my daily schedule was disrupted, with guests coming to stay here.
+I can see from this how much more helpful it would have been to block off a specific time every day for coding.
+Instead, I've become too used to all my time being free time and thus feeling like I can code anytime.
+Getting started after a long, physical day or at the very end of the night is a challenge!
+
+### Day 37: June 10, 2021
+
+**Today's progress:** Played around with simple and multiple regressions in R.
+
+**Thoughts:** I needed a refresher on linear regressions after having not used or studied them in a couple years now.
+Specifically, I had to remind myself what assumptions must be satisfied before considering a regression to be valid.
+
+### Day 38: June 13, 2021
+
+**Today's progress:** Calculated Gini coefficients for total transfer spending between and within leagues.
+Used best fit lines to determine whether trends over time are significant.
+
+**Thoughts:** I'm satisfied with this trend analysis, regardless of how simple it is on its face.
+I think a valuable lesson from this coding challenge, abstracted to something like this, is to recognize that achieving something small but significant is still good.
+Although this result doesn't reveal anything novel or profound, it still provides a solid foundation should I ever want to return to it after learning more advanced techniques.
+
+### Day 39: June 14, 2021
+
+**Today's progress:** Read up on tests for normality and on nonparametric tests.
+Played around with Shapiro&ndash;Wilk and Mann&ndash;Whitney _U_ tests before and after log and root transformations of the data.
+Settled on using _U_ tests for comparing defender vs. attacker values.
+
+**Thoughts:** Although the data are right-skewed, they look normal but with significant left skew after a log transformation, hence not normal.
+This does not concern me as much as it did before, because based on my understanding the _U_ test should suffice for my non-normal data.
+Reading up on all these new tests and assumptions is showing me just how little I know despite my strong grasp of what I did in undergrad.
+But that excites me for everything there is to learn and do in grad school!
+
+### Day 40: June 15, 2021
+
+**Today's progress:** Ran two regressions: One to estimate the premium paid for English players in the Premium League, and one to estimate the "treatment" effect that the Homegrown Player Rule had on this premium.
+
+**Thoughts:** I imitated the steps of my regression analysis from an econ research paper, and it translated well here.
+I'm very happy with the results and what their significance could suggest, but I still have to figure out which of the two regressions to use and if they can both be used and reported.

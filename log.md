@@ -392,3 +392,14 @@ I'm very happy with the results and what their significance could suggest, but I
 Results are now output to TeX with xtable.
 
 **Thoughts:** I've finished the first third of the data analysis and can begin the writeup of that part of the discussion and results.
+
+## Week 6
+
+### Day 42: June 17,  2021
+
+**Today's progress:** With a log transformation for defenders' and attackers' fees, ran Shapiro--Wilk tests for normality and Kolmogorov--Smirnov tests to determine if the distributions differ.
+Formatted test results into LaTeX tables.
+
+**Thoughts:** I'm not sure if reporting the test statistics is necessary, but I'll keep them in the report for the sake of being thorough.
+
+**Links to work:** [Project repository](https://github.com/emordonez/football-transfer-analysis), [commits 1](https://github.com/emordonez/football-transfer-analysis/commit/f7ad4acc8ecb6c1df908f1f48d9fe021c6b62c58), [2](https://github.com/emordonez/football-transfer-analysis/commit/2770a92bc6d081e8c0e63d4a40bc99feba41af96)

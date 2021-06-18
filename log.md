@@ -385,3 +385,10 @@ But that excites me for everything there is to learn and do in grad school!
 
 **Thoughts:** I imitated the steps of my regression analysis from an econ research paper, and it translated well here.
 I'm very happy with the results and what their significance could suggest, but I still have to figure out which of the two regressions to use and if they can both be used and reported.
+
+### Day 41: June 16, 2021
+
+**Today's progress:** Spread Gini coefficient data in wide formats for table layout.
+Results are now output to TeX with xtable.
+
+**Thoughts:** I've finished the first third of the data analysis and can begin the writeup of that part of the discussion and results.

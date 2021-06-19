@@ -403,3 +403,10 @@ Formatted test results into LaTeX tables.
 **Thoughts:** I'm not sure if reporting the test statistics is necessary, but I'll keep them in the report for the sake of being thorough.
 
 **Links to work:** [Project repository](https://github.com/emordonez/football-transfer-analysis), [commits 1](https://github.com/emordonez/football-transfer-analysis/commit/f7ad4acc8ecb6c1df908f1f48d9fe021c6b62c58), [2](https://github.com/emordonez/football-transfer-analysis/commit/2770a92bc6d081e8c0e63d4a40bc99feba41af96)
+
+### Day 43: June 18, 2021
+
+**Today's progress:** Restructured setup and first analysis code and wrote additional comments.
+Added the Mann--Whitney _U_ test for comparing mean ranks and began implementing a permutation test for comparing medians.
+
+**Thoughts:** I did not get as much done today as I wanted to (ideally, I should've finished the permutation test and trend fit).

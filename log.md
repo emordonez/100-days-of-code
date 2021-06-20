@@ -410,3 +410,9 @@ Formatted test results into LaTeX tables.
 Added the Mann--Whitney _U_ test for comparing mean ranks and began implementing a permutation test for comparing medians.
 
 **Thoughts:** I did not get as much done today as I wanted to (ideally, I should've finished the permutation test and trend fit).
+
+### Day 44: June 19, 2021
+
+**Today's progress:** Finished the permutation test and trend fitting for median differences.
+
+**Thoughts:** No looming thoughts, I just need motor through the rest of this analysis!

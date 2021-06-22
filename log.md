@@ -416,3 +416,18 @@ Added the Mann--Whitney _U_ test for comparing mean ranks and began implementing
 **Today's progress:** Finished the permutation test and trend fitting for median differences.
 
 **Thoughts:** No looming thoughts, I just need motor through the rest of this analysis!
+
+### Day 45: June 20, 2021
+
+**Today's progress:** Read up on difference-in-differences estimation.
+Tried making simple estimates of pre- and post-treatment differences by taking differences of group averages.
+
+**Thoughts:** I've started to worry that my data set is ill-equipped for the kind of analysis I want to do and that my approach is fundamentally flawed, but I just have to have confidence in my previous papers as an example.
+Ultimately, this is all a learning experience, not a publishing opportunity!
+
+### Day 46: June 21, 2021
+
+**Today's progress:** Made a balancing table and finished a difference-in-differences analysis.
+
+**Thoughts:** I'm going to call this the end of my analysis and will now turn to writing the paper.
+I will tweak the code if I notice anything major while writing, but for now I think the code is good enough as is to submit as a coding sample.
